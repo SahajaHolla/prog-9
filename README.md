@@ -11,6 +11,6 @@ $ git commit -m "9 prog"
 $ git log --oneline
 $ git show fae7f6e
 $ git log -2
-$ git log 
+$  git log --author="sahaja" --since="2024-12-11" --until="2024-12-13"
 
 
